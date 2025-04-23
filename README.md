@@ -1,7 +1,6 @@
 ## 🎀 Hi, I'm Larissa Bosso
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B4D9&center=true&vCenter=true&width=445&separator=%3D&lines=System.out.println(%22Hello+World!%22);%3Dprint(%22Hello+World%22)%3Dcout+%3C%3C+%22Hello+World!%22+%3C%3C+endl;%3Dconsole.log(%22Hello+World%22);)](https://git.io/typing-svg)
 
-
 ## 💬 About Me:
 💻 Software Engineering student at FIAP and Systems Development Technician from ETEC, passionate about technology and innovation. Experienced in C#, SQL, React Native, React.js, Python, and .NET, always eager to enhance my skills and develop efficient solutions.
 
